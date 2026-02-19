@@ -3,7 +3,7 @@ class Student:
         self.__mark=0
     def get_mark(self):
         return self.__mark
-print("maneesh")
+print("maneesh is a boy")
 
     
 
